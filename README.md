@@ -13,7 +13,7 @@ A simple and attractive Student Login System project developed using HTML, CSS, 
 It also includes a modern UI with hover effects, icons, and success messages.
 
 #Technologies Used:
-HTML5
+HTML
 CSS3
 PHP (Core PHP)
 MySQL Database
@@ -32,11 +32,7 @@ student-login-system/
 ├── style.css
 └── README.md
 
-# How to Run the Project
-1.Install WAMP
-2.Place project folder inside:www(WAMP)
-3.Start:
-MySQL Server(on the browser:wampserver homepage)
-4.Open browser and run:
-  localhost/Student_Management/register.php
-
+#Team members name
+1 Radhika birle
+2 Sakshi bhawsar
+3 Mansi sunaniya
